@@ -1,0 +1,8 @@
+(include_subdirs unqualified)
+
+(library
+ (name exercises)
+ (libraries monads)
+ (inline_tests)
+ (preprocess
+  (pps ppx_inline_test)))

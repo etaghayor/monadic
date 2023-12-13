@@ -1,0 +1,1 @@
+lib/Random.mli: Monad

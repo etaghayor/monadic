@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/mpri24-monads/META"
+  "_build/install/default/lib/mpri24-monads/dune-package"
+  "_build/install/default/lib/mpri24-monads/opam"
+]
+doc: [
+  "_build/install/default/doc/mpri24-monads/README.md"
+]
